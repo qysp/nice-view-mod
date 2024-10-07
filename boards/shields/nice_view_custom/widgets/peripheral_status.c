@@ -27,6 +27,7 @@ LV_IMG_DECLARE(balloon);
 LV_IMG_DECLARE(mountain);
 LV_IMG_DECLARE(shopware_logo_01);
 LV_IMG_DECLARE(shopware_logo_02);
+LV_IMG_DECLARE(fobonoh_logo);
 
 static sys_slist_t widgets = SYS_SLIST_STATIC_INIT(&widgets);
 
